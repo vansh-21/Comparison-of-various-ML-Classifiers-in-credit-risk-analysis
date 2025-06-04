@@ -46,7 +46,7 @@ Final analysis visualizations are created using:
 
 ```
 ├── data/               # Raw and processed datasets
-├── notebooks/          # Jupyter/Colab notebooks for EDA and modeling
+├── notebooks/          # Colab notebooks for EDA and modeling
 ├── visuals/            # Charts and plots
 ├── reports/            # Final report and Power BI dashboards
 └── README.md           # Project overview
