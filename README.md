@@ -1,7 +1,5 @@
 # Comparison-of-various-ML-Classifiers-in-credit-risk-analysis
 
-# Credit Risk Analysis using LightGBM and SMOTE
-
 This project aims to develop a robust machine learning pipeline to predict credit risk using the Light Gradient Boosting Machine (LightGBM) model, combined with SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance. The solution is benchmarked against other popular classifiers such as XGBoost, Random Forest, and Logistic Regression.
 
 ## 🚀 Objectives
@@ -51,6 +49,14 @@ Final analysis visualizations are created using:
 ├── reports/            # Final report and Power BI dashboards
 └── README.md           # Project overview
 ```
+
+## 📊 Power BI Visualizations
+
+### 🔍 Comparison Between ML Classifiers
+![Comparison Between ML Classifiers](./Visuals/Comparison%20between%20ml%20Classifiers.png)
+
+### 🔍 LightGBM with and without SMOTE
+![LightGBM vs SMOTE](./Visuals/Comparison%20of%20Light-GBM%20with%20and%20without%20SMOTE.png)
 
 ## 📌 Summary
 
